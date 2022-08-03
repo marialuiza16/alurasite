@@ -1,2 +1,2 @@
-#alurasite
+alurasite
 ##barbearia alura
